@@ -1,4 +1,4 @@
-n = input('TYpe something: ')
+n = input('Write something: ')
 print('The primitive type of this value is ', type(n))
 print('Only has spaces: ', n.isspace())
 print('Its a number: ', n.isnumeric())

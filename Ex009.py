@@ -2,7 +2,6 @@ measures = float(input('Write a value for distance in meters: '))
 km = measures / 1000
 hm = measures / 100
 dam = measures /10
-m = measures * 1
 dm =measures * 10
 cm = measures * 100
 mm = measures * 1000
